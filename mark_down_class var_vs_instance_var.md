@@ -8,7 +8,6 @@
 Class Sudent: 
  #Creating the class variable
 s1 = Khalid 
-s2 = Aljawhra  
 def __init__(self , grade , age):
    #Creating the instance variable#
    self.grade = grade
@@ -18,6 +17,6 @@ def __init__(self , grade , age):
     print("the student name is", Student.s1 , " And his age is" self.age," and his grade is ",self.grade)
     
 #Creating the instance - object
-k1 = Student()
-k1.
+k1 = Student(13 , 100)
+k1.print_students()
  
