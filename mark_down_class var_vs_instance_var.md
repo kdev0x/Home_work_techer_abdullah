@@ -4,7 +4,7 @@
 ### Instance variable is a variable that is defined inside the init function and it is linked with the **self keyword** ontop of that the instance variable get called many times
 ### example of instance variable and class variable:
 ```python
- [comment]: <>(Creating the class)
+###Creating the class
 Class Sudent: 
  [comment]: <>(Creating the class variable)
 s1 = Khalid 
