@@ -1,0 +1,30 @@
+class PrivateAcccessModfires:
+    #somtimes you dont want the user to modfiy the instance var so you use the PrivateAcccessModfires 
+    def __init__(self, first_name, last_name, base_salary, precentge):
+        self.first_name = first_name
+        self.last_name = last_name
+        self.base_salary = base_salary
+        self.precentge = precentge
+        #we will create one private instance var called bounses
+        self.bounse = 10
+    def get_monthly_gross(self):
+        return self.__base_annual_salary / 12
+    
+    def get_statered_anual_bounse_amount(self):
+         return self.base_annual_salary * (self.__bounse / 100)
+    
+    # crating a private method
+    def __private_method(self):#add 2 __ before the name of the method yet there is certain namews u cant like str len etc
+           return 111-222-333
+def main ():
+    print("hello from main")
+    employee1 = PrivateAcccessModfires("kara","smith",1000,2000) # this is public because we can accese it when we do employee1.
+
+if __name__ == "__main__":
+    main() 
+
+
+
+
+   
+    
