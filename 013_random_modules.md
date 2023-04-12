@@ -12,7 +12,7 @@ random.seed(0)
 print(random.random) 
 ```
 ### now the seed is zero it cant change
-###but sometimes i want to chiose a specfice number or word from a list i can use the seed function
+### but sometimes i want to chiose a specfice number or word from a list i can use the seed function
   
 ## example
 ```python
