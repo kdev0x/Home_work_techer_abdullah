@@ -7,7 +7,7 @@ print(math.floor(3.6)) # the output is 3
 print(math.trunc(3.6)) # the output is 3
 print(math.factorial(3) # the output is 6
 print(math.sqrt(16)) # the output is 4
-print(math.hypot(3,4))
+print(math.hypot(3,4)) # the output is 5
 ```
 ### Ceil()
 #### ceil always round to the number next to it never down
