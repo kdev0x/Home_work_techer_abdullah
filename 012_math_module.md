@@ -17,7 +17,7 @@ print(math.hypot(3,4))
 #### trunk always remove the decimle point and never rounds up 
 ### factorial()
 #### it multipliyes all numbers smaller then the number example factorial of 4 is 4 * 3 * 2 *1
-### sqrt
+### sqrt()
 #### is the square root of a number
-### hypot
+### hypot()
 #### when you have a triangle you give it the to smaller angles and it will give you the larger one
