@@ -7,4 +7,12 @@
 5. [interduction to the git log command](#fith-example)
 
 ## Interduction to git
- Git' is a way to track changes it a computer file-folder what ever you what and git is generally used for source code management in software development
+ `Git` is a way to track changes it a computer file-folder what ever you what and `git` is generally used for `source code management` in software development
+## The git init command
+The `git init` basicliy creates a new `Git repository ` 
+## The git status command
+the `git status` command basicliy showes you what is the `state of the file`
+## the git add command
+the `git add` command marks changes to be included in the next commit
+## the git log command 
+the `git log` command showes you the history of the `repository's-folder`
