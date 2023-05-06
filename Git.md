@@ -16,3 +16,5 @@ the `git status` command basicliy showes you what is the `state of the file`
 the `git add` command marks changes to be included in the next commit
 ## the git log command 
 the `git log` command showes you the history of the `repository's-folder`
+
+# Examples
